@@ -7,8 +7,8 @@
         "update_to_url": "https://play.google.com/store/apps/details?id=com.grand.gangster.autocity",
         "MESSAGE": "================== ADMOB ===========================,",
         
-        "admobInterId": "ca-app-pub-111111",
-        "admobReward": "ca-app-pub-1111111",
+        "admobInterId": "",
+        "admobReward": "",
         
         "MESSAGE_": "================== APPLOVIN ===========================",
         
